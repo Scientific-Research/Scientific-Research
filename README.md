@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development - FullStack Webentwickler**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:beautifulmind309@gmail.com</h3>
 <p align="left">
 </p>
 
